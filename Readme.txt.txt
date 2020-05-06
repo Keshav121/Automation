@@ -1,1 +1,0 @@
-1. To run this project right click on the testng.xml file and select 'Run as' TestngSuite.xml
