@@ -18,5 +18,11 @@ public class Utilities {
 		return driver;
 		
 	}
+	
+	public AndroidDriver<AndroidElement> wait1()
+	{
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		return driver;
+	}
 
 }
