@@ -139,5 +139,10 @@ public class Base {
 		
 	}
 	
+	public void screenshot()
+	{
+		/* Need to work on the way it should be work now*/
+	}
+	
 
 }
